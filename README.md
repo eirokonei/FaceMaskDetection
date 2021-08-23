@@ -2,7 +2,7 @@
 
 This a Real-Time Face Mask detection appilication using Deep Learning. 
 This system can predict whereas a person wearing a face mask or not. 
-Dataset used:mFace Mask Detection ~12K Images Dataset by Ashish Jangra
+Dataset used: Face Mask Detection ~12K Images Dataset by Ashish Jangra
 
 ### `How to Run`
 
